@@ -1,1 +1,1 @@
-React_Component
+React Component
